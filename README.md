@@ -42,6 +42,7 @@ Girilen 3 sayıyı "küçükten büyüğe" sıralayan programı yazınız.
     }
     
     
-    ![image](https://user-images.githubusercontent.com/107626332/179217211-0106386c-0367-4daf-b097-20d7e250afdb.png)
+ ![image](https://user-images.githubusercontent.com/107626332/179217211-0106386c-0367-4daf-b097-20d7e250afdb.png)
+    
 
 
